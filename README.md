@@ -3,9 +3,9 @@
 A robust template for building Next.js 15 applications with theme switching, multi-language support (RTL and LTR), UI components from Shadcn, Tailwind CSS, JavaScript, and ESLint for linting.
 
 <div align="center">
- <img height="240" alt="nextjs" src="./public/shot.png" />
+ <img width="100%" alt="nextjs" src="./public/shot.png" />
 </div>
----
+
 
 ## 🚀 Features
 
