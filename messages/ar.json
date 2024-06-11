@@ -1,0 +1,12 @@
+{
+    "Home": {
+      "getStarted": "ابدأ بالتحرير",
+      "saveChanges": "احفظ وشاهد تغييراتك على الفور.",
+      "deployNow": "انشر الآن",
+      "readDocs": "اقرأ وثائقنا",
+      "learn": "تعلم",
+      "examples": "أمثلة",
+      "goToNextjs": "اذهب إلى nextjs.org →"
+    }
+  }
+  

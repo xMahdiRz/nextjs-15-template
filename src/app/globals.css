@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* styles/globals.css */
+body[dir='rtl'] {
+  direction: rtl;
+  text-align: right;
+}
+
+body[dir='ltr'] {
+  direction: ltr;
+  text-align: left;
+}
